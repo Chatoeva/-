@@ -6,7 +6,7 @@ body {
 }
 
 h1, h2, h3 {
-  font-family: 'pt sans caption', sans-serif;
+  font-family: 'Russo One', sans-serif;
   font-weight: normal;
 }
 
@@ -14,33 +14,35 @@ h1 {
   font-family: 'pt sans caption', sans-serif;
   font-weight: normal;
   margin-top: 69px;
-  font-size: 40px;
+  font-size: 60px;
   margin-bottom: 34px;
 }
 
 h2{
-  font-family: 'pt sans caption', sans-serif;
+  font-family: 'Orbitron', sans-serif;
   font-weight: normal;
   margin-top: 40px;
-  font-size: 20px;
+  font-size: 30px;
   line-height: 34px;
   margin-bottom: 34px;
 }
 
 h3{
-  font-family: 'pt sans caption', sans-serif;
+  font-family: 'Orbitron', sans-serif;
   font-weight: normal;
   margin-top: 40px;
-  font-size: 20px;
+  font-size: 25px;
   line-height: 34px;
   margin-bottom: 34px;
-  
+
 
 }
 
 p{
 margin-top: 40px;
 margin-bottom: 20px;
+font-size: 20px;
+font-family: 'Orbitron', sans-serif;
 }
 
 
@@ -59,5 +61,6 @@ li {
 }
 
 ul{
+  font-family: 'ABeeZee', sans-serif;
   margin-top: 40px;
 }
